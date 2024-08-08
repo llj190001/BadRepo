@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^4.1.0",
-    "node-fetch": "^1.0.0"
+    "node-fetch": "^1.0.0",
+    "trim-newlines": "^3.0.0"
   }
 }
