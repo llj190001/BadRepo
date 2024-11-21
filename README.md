@@ -1,3 +1,3 @@
 # Bad Repo
 
-The pourpose of bad repo is to to show
+The pourpose of bad repo is to to showcase t
