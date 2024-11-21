@@ -1,3 +1,3 @@
 # Bad Repo
 
-The pourpose of bad repo is to to showcase the abilities and usecase of the cj-esol-jira-
+The pourpose of bad repo is to to showcase the abilities and usecase of the cj-esol-jira-depe
