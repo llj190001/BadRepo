@@ -1,3 +1,3 @@
 # Bad Repo
 
-The pourpose 
+The pourpose of 
