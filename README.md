@@ -1,3 +1,3 @@
 # Bad Repo
 
-The pourpose of bad repo is t
+The pourpose of bad repo is to 
