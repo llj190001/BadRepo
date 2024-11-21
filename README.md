@@ -1,3 +1,3 @@
 # Bad Repo
 
-The pourpose of 
+The pourpose of bad repo
